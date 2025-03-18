@@ -1,6 +1,7 @@
 ---
 title: "Hello World!"
 date: 2025-03-17
+layout: post
 ---
 
 # Hello?
